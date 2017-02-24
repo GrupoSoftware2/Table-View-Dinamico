@@ -12,6 +12,7 @@
 		FBFE8E881E5FB1C500D9316E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBFE8E861E5FB1C500D9316E /* Main.storyboard */; };
 		FBFE8E8A1E5FB1C500D9316E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBFE8E891E5FB1C500D9316E /* Assets.xcassets */; };
 		FBFE8E8D1E5FB1C500D9316E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBFE8E8B1E5FB1C500D9316E /* LaunchScreen.storyboard */; };
+		FBFE8E951E5FB42600D9316E /* DinamicoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBFE8E941E5FB42600D9316E /* DinamicoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FBFE8E891E5FB1C500D9316E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBFE8E8C1E5FB1C500D9316E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBFE8E8E1E5FB1C500D9316E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBFE8E941E5FB42600D9316E /* DinamicoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DinamicoTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				FBFE8E821E5FB1C500D9316E /* AppDelegate.swift */,
 				FBFE8E841E5FB1C500D9316E /* ViewController.swift */,
 				FBFE8E861E5FB1C500D9316E /* Main.storyboard */,
+				FBFE8E941E5FB42600D9316E /* DinamicoTableViewController.swift */,
 				FBFE8E891E5FB1C500D9316E /* Assets.xcassets */,
 				FBFE8E8B1E5FB1C500D9316E /* LaunchScreen.storyboard */,
 				FBFE8E8E1E5FB1C500D9316E /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				FBFE8E851E5FB1C500D9316E /* ViewController.swift in Sources */,
 				FBFE8E831E5FB1C500D9316E /* AppDelegate.swift in Sources */,
+				FBFE8E951E5FB42600D9316E /* DinamicoTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
